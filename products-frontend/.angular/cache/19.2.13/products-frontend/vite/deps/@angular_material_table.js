@@ -4,7 +4,7 @@ import {
   RtlScrollAxisType,
   getRtlScrollAxisType,
   supportsScrollBehavior
-} from "./chunk-ZHZXOCWC.js";
+} from "./chunk-TPND26VQ.js";
 import {
   BidiModule,
   Directionality
